@@ -13,6 +13,6 @@ demos of this program found in: https://www.yixuanqi.ca/#/flood-fills/
 
 ENJOY! 
 
-Acknowledgement 
+<strong>Acknowledgement</strong>
 
 Many thanks to Professor Cinda Heeren at UBC for providing the initial inspiration and the utilities code.
