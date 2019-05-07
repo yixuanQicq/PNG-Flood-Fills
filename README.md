@@ -1,5 +1,5 @@
 # PNG-Flood-Fills
-The Fill Algorithms
+<strong>The Fill Algorithms</strong>
 
 This project was based on a number of C++ functions that execute a "flood fill" on a PNG image. To flood fill a region of an image, the user specifies a point on the image and a fill pattern and all points similar in colour and adjacent to the chosen point are changed to the fill pattern. 
 
