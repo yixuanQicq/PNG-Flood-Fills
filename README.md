@@ -11,7 +11,7 @@ you output image will be found in images/output.gif and images/output.png!
 
 demos of this program found in: https://www.yixuanqi.ca/#/flood-fills/
 
-ENJOY! 
+ENJOY! ！！ 
 
 
 <strong>Acknowledgement</strong>
